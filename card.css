@@ -1,0 +1,41 @@
+body{
+    background-image: url(Background\ \ Wallpapers.jfif);
+    margin: 0;
+    font-family: sans-serif;
+}
+.navbar{
+    width : 100vw;
+    background: #777777;;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #09b1ee, #04df16);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, blue, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    padding : 3vh;
+    color: whitesmoke;
+    font-family: cursive;
+}
+.content{
+    width: 49vh;
+    height: 93vh;
+    background: #0be73b;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #da14b9, #1ba717);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #06b4f3, #0bc55f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    margin: auto;
+    margin-top: 20vh;
+    padding: 3vh 3vh;
+}
+.nama{
+    color: rgb(0, 0, 0);
+    font-size: 2vh;
+    margin-top:none;
+    text-align:justify;
+}
+h1{
+    font-size: 2vh;
+    font-family: cursive;
+    text-align: justify;
+}
+button{
+    background: pink;
+    border-radius: 4pt;
+}
